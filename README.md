@@ -27,7 +27,7 @@
 
 # [📖 Space Travelers' Hub ] <a name="about-project"></a>
 
-**[ Space Travelers' Hub ]** Is our React-Redux group project.
+**[ Space Travelers' Hub ]** The Space Travelers' Hub is a web application designed for a company that offers commercial and scientific space travel services. The application allows users to book rockets and join selected space missions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -177,8 +177,7 @@ npx eslint .
 
 👤 **Ahmed**
 
-- 👤 GitHub: [@githubhandle](https://github.com/newtonah0)
-- 👤 LinkedIn: [Ah Mh](https://linkedin.com/in/ah-mh-4a0661271)
+- 👤 GitHub: [@m00h0](https://github.com/m00h0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
